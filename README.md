@@ -5,10 +5,10 @@
 - 📫 How to reach me: Email: zhifanli2000@gmail.com, Linkedin:  [Zhifan Tom Li]
 
 <details>
- <summary><b>random github stats</b> 🥳</summary>
+ <summary><b>Github Stats</b></summary>
  <br>
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zhifanl&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff&count_private=true&include_all_commits=true&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=zhifanl&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff&count_private=true&include_all_commits=true&show_icons=true)
  </details>
  
  ##
