@@ -8,7 +8,7 @@
  <summary><b>random github stats</b> 🥳</summary>
  <br>
  
-![my github stats](https://github-readme-stats.vercel.app/api?username=zhifanl&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff&count_private=true&include_all_commits=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zhifanl&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff&count_private=true&include_all_commits=true&show_icons=true)
  </details>
  
  ##
