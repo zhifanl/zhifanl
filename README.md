@@ -2,7 +2,7 @@
 - 💡 I am an aspiring software engineer with interest in technology 
 - 🌱 I’m currently learning Deep Learning and AWS.
 - 💬 Ask me about Anything
-- 📫 How to reach me: Email: zhifanli2000@gmail.com, Linkedin:  [Zhifan Tom Li]
+- 📫 How to reach me: Email: zhifanli2000@gmail.com, LinkedIn:  [Zhifan Tom Li]
 
 <details>
  <summary><b>Github Stats</b></summary>
