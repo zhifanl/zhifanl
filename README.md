@@ -13,5 +13,5 @@
  
  ##
  
-  [Zhifan Tom Li]: <https://www.linkedin.com/in/zhifan-tom-li-7198331a7>
+  [Zhifan Tom Li]: <https://www.linkedin.com/in/zhifan-tom-li>
  
