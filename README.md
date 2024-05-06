@@ -1,4 +1,4 @@
-#### 👋 I am `Zhifan Li (Tom)` 
+#### 👋 I am `Tom` 
 - 💡 I am an aspiring software engineer with interest in technology 
 - 📫 How to reach me: Email: zhifanli2000@gmail.com, LinkedIn:  [Zhifan Tom Li]
 
